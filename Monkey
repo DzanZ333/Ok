@@ -20,6 +20,8 @@ local args = {
 }
 
 game:GetService("Players").LocalPlayer.Character:FindFirstChild("1SS").SkillZ.Event:FireServer(unpack(args))
+wait(1)
+end
 end)
 
 KillingCheats:CreateToggle("Fire", function(gay)
