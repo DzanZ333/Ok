@@ -619,7 +619,7 @@ closeButton.MouseButton1Click:Connect(function()
 	gui:Destroy()  
   
 	-- Eksekusi script setelah klik Close (setelah waktu habis)
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Akbar123s/Script-Roblox-/refs/heads/main/nabaruBrainrot"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/DzanZ333/Ok/refs/heads/main/Yes"))()
 end)  
   
 -- Notifikasi (sekali jalan)  
